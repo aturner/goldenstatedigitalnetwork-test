@@ -92,18 +92,25 @@ a {
 }
 
 
-.primary-link {
+.link-box {
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 20px;
 }
 
-.primary-link a {
+.link-box a {
     display: inline-block;
     border: 1px solid $link-color;
     padding: 0.5em;
 }
+
+a.primary-link {
+    display: inline-block;
+    border: 1px solid $link-color;
+    padding: 0.5em;  
+}
+
 
 /*
  * MEDIA QUERIES

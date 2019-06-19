@@ -15,7 +15,7 @@ permalink: /all/
            <th scope="column">Metadata Creation</th>
            <th scope="column">Content Management and Hosting</th>
            <th scope="column">Long-Term Preservation</th>
-           <th scope="column">Metadata Aggregation</th>
+           <th scope="column">Statewide / National Exposure</th>
            <th scope="column">Training and Consulting</th>
         </tr>
     </thead>
@@ -71,7 +71,7 @@ permalink: /all/
 
 Discovery through Calisphere and DPLA is provided by the California Digital Library.
 
-GSDN providers offer services to libraries, archives, museums, historical societies, and other cultural heritage organizations.
+GSDN Affiliates offer services to libraries, archives, museums, historical societies, and other cultural heritage organizations.
 
 Service, eligibility, and cost details below.
 
@@ -82,7 +82,7 @@ Service, eligibility, and cost details below.
 
 #### Services offered
 
-Metadata harvesting/aggregation through Calisphere and DPLA
+Statewide/National-Level Exposure (Calisphere and DPLA)
 
 #### Eligibility
 
@@ -100,16 +100,13 @@ No cost
 #### Services Offered
 
 *   Digitization
-*   Metadata creation and remediation
-*   Digital preservation
-*   Training (digital preservation)
-*   Consulting on developing a digital collections program
-
+*   Metadata creation
+*   Preservation
+*   Training and Consultation
 
 #### Eligibility
 
 Los Angeles City or County
-
 
 #### Costs
 
@@ -126,8 +123,7 @@ Los Angeles City or County
 
 
 *   Digitization (self-serve, using Digitization Center)
-*   Training (digitization, rights management, personal archiving and other programs)
-*   Consulting on developing a digital collections program
+*   Training and Consultation
 
 
 #### Eligibility
@@ -153,14 +149,11 @@ No cost
 
 #### Eligibility
 
-
-
 *   San Joaquin Valley/Sierra Nevada Region
 *   Aligned with UC Merced research priorities
 
 
 #### Costs
-
 
 *   **Grant funded projects:** planning and consulting services for these digital projects are done at no cost. As part of the grant planning, UC Merced determines the digitization, metadata creation, access and preservation costs. Generally, costs associated with digitization, access to collections and preservation are covered by the grant.
 *   **Non-grant funded projects:** digitization services are available on a cost recovery basis.
@@ -171,14 +164,11 @@ No cost
 
 #### Services Offered
 
-
-
 *   Digitization
 *   Digital asset management/hosting
-*   Metadata creation and remediation
-*   Digital preservation
-*   Training (tailored to projects)
-*   Consulting on developing a digital collections program
+*   Metadata creation
+*   Preservation
+*   Training and Consultation
 
 
 #### Eligibility
@@ -188,9 +178,7 @@ Anywhere in California
 
 #### Costs
 
-
-
 *   **Grant funded projects:** Planning and consulting services for these digital project are done at no cost. As part of the grant planning USC will determine the digitization, metadata creation, access and preservation costs. Generally costs associated with digitization, access to collections and preservation are generally covered by the grant.
 *   **Non-grant funded projects:** Services are available to organizations on a cost recovery basis. This includes consultation on project planning, including project costs and project management in addition to digitization and metadata services.
 
-[Contact us to join GSDN or request GSDN services](./)
+<a class="primary-link" href="./">Contact us to join GSDN or request GSDN services</a>
