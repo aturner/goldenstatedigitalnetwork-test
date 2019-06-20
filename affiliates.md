@@ -41,7 +41,7 @@ Affiliates agree to:
 
 ## Interested in joining?
 
-[Contact us for more information.](./)
+<a class="primary-link" href="./">Contact us for more information</a>
 
 
 ---
