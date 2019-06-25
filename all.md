@@ -4,10 +4,9 @@ title: All Services and Providers
 permalink: /all/
 ---
 
-## Summary of service offerings
+<h2 id="service-table-heading">Summary of service offerings</h2>
 
-<table>
-    <caption>All providers and their service offerings</caption>
+<table aria-labelledby="service-table-heading">
     <thead>
         <tr>
            <th scope="column">Provider</th>
@@ -52,7 +51,7 @@ permalink: /all/
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
@@ -143,6 +142,9 @@ No cost
 
 
 *   Digitization (self-serve, using Digitization Center)
+*   Digital asset management/hosting
+*   Metadata creation
+*   Preservation
 *   Training (digitization, rights management, personal archiving and other programs)
 *   Consulting on developing a digital collections program
 
