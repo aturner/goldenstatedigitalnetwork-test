@@ -213,6 +213,8 @@ a { color: #005581; text-decoration: none; }
 a:visited { color: #002335; }
 a:hover { color: #111; text-decoration: underline; }
 
+strong { font-weight: 600; }
+
 .site-header { border-bottom: 1px solid #828282; }
 
 .site-footer { border-top: 1px solid #828282; }

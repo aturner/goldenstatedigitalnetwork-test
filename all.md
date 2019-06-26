@@ -68,8 +68,6 @@ permalink: /all/
 </table>
 
 
-Discovery through Calisphere and DPLA is provided by the California Digital Library.
-
 GSDN Affiliates offer services to libraries, archives, museums, historical societies, and other cultural heritage organizations.
 
 Service, eligibility, and cost details below.
